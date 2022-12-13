@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "com.android.manager",
-               "sha256_cert_fingerprints": ["58:73:74:B5:2E:67:A0:E0:25:77:77:8F:61:55:4A:8A:CC:94:33:E6:2F:72:9E:A6:0B:18:C7:47:91:28:FF:06"] }
+               "sha256_cert_fingerprints": ["A5:4A:72:89:5B:A5:AB:11:2C:DE:4E:1B:AE:BA:B1:D2:A2:08:5A:AC:C6:3D:C8:A3:91:C9:32:28:35:EA:0F:7B"] }
 }]
